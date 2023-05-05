@@ -20,9 +20,9 @@ Based on the selected confirmations, the calculator calculates the total percent
 * Run the compiled binary
 
 ## Usage
-*When the calculator window is first opened, the user can select the desired price action confirmations by checking the corresponding checkboxes. 
-*The calculator will automatically calculate the total percentage of confirmations based on the selected options and display it to the user. 
-*The user can uncheck and select different confirmations to update the percentage calculation.
+* When the calculator window is first opened, the user can select the desired price action confirmations by checking the corresponding checkboxes. 
+* The calculator will automatically calculate the total percentage of confirmations based on the selected options and display it to the user. 
+* The user can uncheck and select different confirmations to update the percentage calculation.
 
 ## Credits
 This calculator was created for HS trade family.
