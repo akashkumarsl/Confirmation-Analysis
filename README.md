@@ -26,4 +26,4 @@ This calculator was created for HS trade family. Thanks to Hari bro.
 ## License
 This calculator is open-source software. Feel free to use and modify the code.
 
-![The San Juan Mountains are beautiful!](/hstade.jpg "San Juan Mountains")
+![HS Trade School ](/hstrade.jpg "HS Trade School")
