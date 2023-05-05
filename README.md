@@ -21,10 +21,14 @@ The calculator allows the user to select various price action confirmations such
 *The user can uncheck and select different confirmations to update the percentage calculation.
 
 ## Credits
-This calculator was created for HS trade family. Thanks to Hari bro.
-Made with Love by Akash and Naveen Balaji :heart:
+This calculator was created for HS trade family.
+Thanks to Hari bro.
+
+Made with :heart: by Akash and Naveen Balaji 
 
 ## License
 This calculator is open-source software. Feel free to use and modify the code.
 
 ![HS Trade School ](/hstrade.jpg "HS Trade School")
+
+
