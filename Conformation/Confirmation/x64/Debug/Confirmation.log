@@ -1,0 +1,13 @@
+﻿  Conformation.cpp
+C:\Users\Akash Kumar S L\Desktop\Conformation\Confirmation\src\Conformation.cpp(11,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Akash Kumar S L\Desktop\Conformation\Confirmation\src\Conformation.cpp(11,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Confirmation.vcxproj -> C:\Users\Akash Kumar S L\Desktop\Conformation\Confirmation\x64\Debug\Confirmation.exe
