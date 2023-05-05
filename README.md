@@ -1,9 +1,13 @@
 # Price Action Confirmations Calculator
 
-This is a simple price action confirmations calculator built using the ImGui library for creating the user interface and GLFW and OpenGL for window management and graphics rendering.
+This is a simple price action confirmations calculator built using the **ImGui library** for creating the user interface and **GLFW and OpenGL** for window management and graphics rendering.
+
 
 ## Features
-The calculator allows the user to select various price action confirmations such as RSI, volume, support and resistance, trendlines, channels, double bottoms/tops, triangles, flags, and candles. Based on the selected confirmations, the calculator calculates the total percentage of confirmations and displays it to the user.
+The calculator allows the user to select various price action confirmations such as 
+- RSI, volume, support and resistance, trendlines, channels, double bottoms/tops, triangles, flags, and candles.
+
+Based on the selected confirmations, the calculator calculates the total percentage of confirmations and displays it to the user.
 
 ## Building and Running
 
