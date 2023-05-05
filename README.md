@@ -22,6 +22,7 @@ The calculator allows the user to select various price action confirmations such
 
 ## Credits
 This calculator was created for HS trade family. Thanks to Hari bro.
+Made with Love by Akash and Naveen Balaji :heart:
 
 ## License
 This calculator is open-source software. Feel free to use and modify the code.
